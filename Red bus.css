@@ -1,0 +1,224 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h3{
+    color: aqua;
+}
+img{
+    margin: 0%;
+}
+.One{
+    position: fixed;
+    border: 0cm;
+    width: 100%;
+    background:  #d84f57;
+    padding: 0%;
+    margin: 0%;
+
+    
+}
+
+
+.Two{
+    background-image: url("https://st.redbus.in/Images/INDOFFER/FESTIVE200/Hero01.png");
+                
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0cm;
+    height: 13cm;
+    width: 100%;
+   
+    color: #d84f57;
+   
+  
+}
+#placeholder{
+    padding:0.5cm;
+    padding-left: 1cm;
+    font-size: large;
+}
+.Three{
+  
+   
+    width: 100%;
+    display: flex;
+    background: #dfdede;
+    flex-direction: row;
+    justify-content: center;
+    height: 10cm;
+}
+.four{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 0cm;
+    height: 25cm;
+    width: 100%;
+    background: #e5eceb;
+    
+}
+h3{
+    padding: 15%;
+    color: black;
+}
+.five{
+   padding-left: 14cm;
+    background: #f1efef;
+}
+
+.six{
+  
+    display: flex;
+    justify-content: space-evenly;
+}
+    
+    
+   
+
+.seven{
+ display: flex;
+ background-color: #f1f1f1;
+    height: 11.5cm;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.eight{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 10cm;
+    background-color: white;
+}
+.Nine{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: #f1f1f1;
+    height: 6.5cm;
+    width: 100%;
+}
+.Ten{ display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background:#1b2330;
+    height: 10cm;
+    width: 100%;
+}
+.list{
+    text-decoration:white;
+    margin: 0.7cm;
+   
+    color:rgb(202, 197, 197);
+}
+
+.left{
+    padding-top: 3cm;
+    width: 35%;
+ float: left;
+ padding-left: 5cm;
+ height: 22cm;
+}
+.right{
+    padding-top: 5cm;
+    padding-left: 2cm;
+    width: 35%;
+ float: right;
+ height: 22cm;
+}
+.extra{
+    background: #f1f1f1;
+    height: 6cm;
+    width: 87%; 
+    margin: 0;
+    padding: 2.6cm;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    text-decoration: dashed
+  
+}
+
+.line{
+    margin:0%;
+    background-color: #c7c6c6;
+}
+.New{
+     
+    width: 100%;
+    height: 11cm;
+    display: flex;
+    padding-top: 0.5cm;
+    justify-content: center;
+    
+  
+   
+    background: #f1efef;
+    
+}
+.AA {
+    display: flex;
+    justify-content: center;
+}
+h4{
+    margin: 0%;
+}
+.list1{
+    font-size: large;
+    margin: 1.3cm;
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+button{
+    color: white;
+    background-color: #d84f57;
+}
+.para{
+   font-size: 20px;
+    font-family: Montserrat;
+    
+}
+#dot{
+    font-family: Montserrat;
+    font-size: 30px;
+}
+.ads{
+    margin: 0.5cm;
+    padding-top: 1cm;
+}
+hr{
+    padding-left: 2cm;
+    padding-right: 2cm;
+    margin: 0%;
+}
+#heading{
+    color: black;
+}
+#color{
+    color: #797979;
+    font-family: Montserrat;
+    
+}
+.black{
+  color: #c7c6c6;
+    line-height: 0.7cm;
+}
+#travals{
+    line-height: 0.8cm;
+}
+hr{
+  
+    background-color: #ffffff;
+    width: 80%;
+}
+.IP{
+    width: 16%;
+    height: 23px;
+}
